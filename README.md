@@ -1,4 +1,4 @@
-# scoreboard_clock
+# Scoreboard / WallClock
 
 This started as a ScoareBoard project but it ended up as a 
 
