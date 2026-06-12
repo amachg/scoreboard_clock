@@ -2,7 +2,7 @@
 
 This started as a ScoareBoard project but it ended up as a 
 
-  WallClock project.
+# WallClock project.
 
   It displays the Date-Time and remaining period minutes before the next break.
   Breaks correspond to the Greek Gymnasium timetable schedule.
