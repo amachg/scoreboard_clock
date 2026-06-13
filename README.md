@@ -1,4 +1,4 @@
-# Scoreboard / WallClock
+# Πινακίδα Λεντ για Ρολόι και Σκορ (Scoreboard / WallClock)
 
 This started as a ScoareBoard project but it ended up as a 
 
